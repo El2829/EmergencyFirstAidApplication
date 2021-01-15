@@ -2,7 +2,7 @@
   "name": "emergencyfirstaidapplication",
   "version": "0.0.1",
   "description": "Mobile Emergency First Aid Application For The City of Imus",
-  "productName": "MEFAAforImus",
+  "productName": "First Aid App",
   "author": "",
   "private": true,
   "scripts": {
